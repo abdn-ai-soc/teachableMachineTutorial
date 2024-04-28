@@ -49,7 +49,7 @@ node index.js
 
 ### Gathering Images.
 
-If you are struggling to find some images to use inside your classes, see this link [Unsplash.com](https://unsplash.com/). Or
+If you are struggling to find some images to use inside your classes, see this link [Unsplash.com](https://unsplash.com/).
 
 
 # Acknowledgements
