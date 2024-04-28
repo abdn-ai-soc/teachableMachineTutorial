@@ -6,31 +6,26 @@
 
 **Teachable Machine Node** empowers you to load any image classification model trained with Google's Teachable Machine tool in a Node.Js project.
 
-[Teachable Machine](https://teachablemachine.withgoogle.com/) makes AI easy for everyone, by offering a fast and fun way to train a real TensorFlow.js Machine Learning Models without any coding required. You can train the computer to recognize images, sounds, & poses, using your camera or your own dataset. Check [The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine) full of useful resources and amazing projects to gain some cool ideas.
+
 
 
 For now, Teachable Machine Node holds support only for image models, but we won't stop here. Check out the [Roadmap](#Roadmap) of what comes next!
 
 # Install
 
-- Install using npm
+- Once this github repository has been cloned into your visual studio code, open up the terminal by finding the "View" tab in the navigation bar, and selecting "Terminal".
+- When the terminal has opened up, please run the command: 
 
 ```sh
-npm install @sashido/teachablemachine-node
+npm install 
 ```
-
-- Install using yarn
-
-```sh
-yarn add @sashido/teachablemachine-node
-```
-
+This will make sure that you have the correct items to run this program. 
 
 # Usage
 
 ### Create you own Model with Teachable Machine
 
-1. [Gathering samples](https://youtu.be/DFBbSTvtpy4) is the fundamental first step to your Teachable Machine Model. Use your camera to collect data or upload some preselected images.
+1. Create your own Teachable Machine Model by visiting the website https://teachablemachine.withgoogle.com/
 
 2. [Train your Teachable Machine Image Model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=CO67EQ0ZWgA).
 
