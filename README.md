@@ -7,10 +7,6 @@
 **Teachable Machine Node** allows for  image classification models trained in Teachable Machine to be loaded into a Node.JS project, and you can even use your own image to test your classifier!.
 
 
-
-
-For now, Teachable Machine Node holds support only for image models, but we won't stop here. Check out the [Roadmap](#Roadmap) of what comes next!
-
 # Install
 
 - Once this github repository has been cloned into your visual studio code, open up the terminal by finding the "View" tab in the navigation bar, and selecting "Terminal".
