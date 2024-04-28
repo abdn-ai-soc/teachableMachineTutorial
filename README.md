@@ -44,8 +44,7 @@ Check the `Advanced` option for further insights on the model performance and ac
 node index.js
 ```
 
-8. Your ouput should look something like this:
-![Alt text](images/resultOutput.png?raw=true "Classifier Output")
+8. Your ouput should look something like the image, in the images file. The closer the prediction value is to 1, the closer the classifier predicts it to belong to a certain class
 
 ### Gathering Images.
 
