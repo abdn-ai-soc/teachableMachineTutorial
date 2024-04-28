@@ -45,7 +45,7 @@ node index.js
 ```
 
 8. Your ouput should look something like this:
-![Alt text](images\resultOuput.png?raw=true "Classifier Output")
+![Alt text](images/resultOutput.png?raw=true "Classifier Output")
 
 ### Gathering Images.
 
