@@ -37,7 +37,17 @@ Check the `Advanced` option for further insights on the model performance and ac
 
 5. Pass the URL to the commented code in the index.js file, where it specifies to load in your teachable machine code. 
 
-### Play around with the Teachable Machine Model.
+6. Next get an image that fits into one of your classes but you have not yet used as part of your training data. Make sure that when you copy the link to the image its in the form of a URL, there is a comment in the code for where the code belongs to.
+
+7. Once the image is loaded in, you should run the program again in the terminal with the command 
+```sh
+node index.js
+```
+
+8. Your ouput should look something like this:
+![Alt text](images\resultOuput.png?raw=true "Classifier Output")
+
+### Gathering Images.
 
 If you are struggling to find some images to use inside your classes, see this link [Unsplash.com](https://unsplash.com/). Or
 
